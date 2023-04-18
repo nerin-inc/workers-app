@@ -1,0 +1,19 @@
+{
+  "name": "workers-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerin-inc/workers-app-fontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerin-inc/workers-app-fontend/issues"
+  },
+  "homepage": "https://github.com/nerin-inc/workers-app-fontend#readme"
+}
